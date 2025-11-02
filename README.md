@@ -136,9 +136,9 @@ g++ -std=c++17 -pthread main.cpp -o doom_sim
 === DOOM-SIM (FIN) ===
 Resumen final:
  H1 -> VIVO/META HP=165 Pos=(16,2)
- H2 -> MUERTO HP=-3 Pos=(12,10)
+ H2 -> MUERTO HP=0 Pos=(6,18)
  M1 -> MUERTO HP=-20 Pos=(8,2)
- M2 -> VIVO HP=15 Pos=(12,8)
+ M2 -> VIVO HP=60 Pos=(13,4)
  M3 -> MUERTO HP=-5 Pos=(6,16)
  M4 -> MUERTO HP=-5 Pos=(6,16)
  M5 -> VIVO HP=100 Pos=(35,15)
