@@ -146,7 +146,7 @@ Simulación finalizada.
 
 ---
 
-## 📄 Notas finales
+## Conclusión
 
 - El programa se ejecuta correctamente con distintas configuraciones en `config.txt`.  
 - Se manejan los casos de múltiples héroes y varios monstruos sin errores de concurrencia.  
